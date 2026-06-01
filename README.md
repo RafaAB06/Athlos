@@ -1,5 +1,5 @@
 <div style="text-align: center; color: red">
-  <h1>Sistema Athlos para Academias</h1>
+  Sistema Athlos para Academias
 </div>
 Sistema de Academia Athlos
 
