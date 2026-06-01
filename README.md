@@ -1,6 +1,6 @@
-<div style="text-align: center; color: red">
+<h1 style="text-align: center; color: red">
   Sistema Athlos para Academias
-</div>
+</h1>
 Sistema de Academia Athlos
 
 # temos que fazer logo essa bosta
