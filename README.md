@@ -9,9 +9,9 @@
 <tr>
   <th>Número</th><th>Descrição</th>
 </tr>
-  <tr><td align="center">1</td><td align="center">O sistema deve permitir cadastro de academias</td></tr>
-  <tr><td align="center">2</td><td align="center">O sistema deve permitir cadastro de alunos</td></tr>
-  <tr><td align="center">3</td><td align="center">O sistema deve permitir cadastro de instrutores/personals</td></tr>
+  <tr><td align="center">1</td><td align="center">O sistema deve permitir cadastro de academias, incluindo nome, CNPJ, Endereço e telefone</td></tr>
+  <tr><td align="center">2</td><td align="center">O sistema deve permitir cadastro de alunos, incluindo nome, CPF, Enderço e telefone</td></tr>
+  <tr><td align="center">3</td><td align="center">O sistema deve permitir cadastro de instrutores/personals, incluindo nome, CPF, Enderço e telefone</td></tr>
 </table>
 
 # temos que fazer logo essa bosta
