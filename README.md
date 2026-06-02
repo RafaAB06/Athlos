@@ -1,4 +1,8 @@
 <h1 align="center">Sistema Athlos para Academias</h1>
+<div align="center">
+  <img src="imagens/gato.jpg">
+</div>
+
 <h1 align="center">Requisitos Funcionais</h1>
 
 <table align="center">
@@ -9,9 +13,5 @@
   <tr><td align="center">2</td><td align="center">O sistema deve permitir cadastro de alunos</td></tr>
   <tr><td align="center">3</td><td align="center">O sistema deve permitir cadastro de instrutores/personals</td></tr>
 </table>
-
-<div align="center">
-  <img src="imagens/gato.jpg">
-</div>
 
 # temos que fazer logo essa bosta
