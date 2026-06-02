@@ -11,7 +11,7 @@
 </table>
 
 <div align="center">
-  <img src="imagens/furry.jpg">
+  <img src="imagens/gato.jpg">
 </div>
 
 # temos que fazer logo essa bosta
