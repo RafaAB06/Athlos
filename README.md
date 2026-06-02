@@ -10,6 +10,6 @@
   <tr><td align="center">3</td><td align="center">O sistema deve permitir cadastro de instrutores/personals</td></tr>
 </table>
 
-![imagem](imagens/furry.png)
+![imagem](imagens/furry.jpg)
 
 # temos que fazer logo essa bosta
