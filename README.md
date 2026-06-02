@@ -3,19 +3,11 @@
 
 <table align="center">
 <tr>
-<th>Nome</th>
-<th>Idade</th>
+  <th>Número</th><th>Descrição</th>
 </tr>
-<tr>
-<td>João</td>
-<td>20</td>
-</tr>
+  <tr><td>`1`</td><td>O sistema deve permitir cadastro de academias</td></tr>
+  <tr><td>`2`</td><td>O sistema deve permitir cadastro de alunos</td></tr>
+  <tr><td>`3`</td><td>O sistema deve permitir cadastro de instrutores/personals</td></tr>
 </table>
-
-| Número  | Descrição |
-| :-------------: | :-------------: |
-| `1`  | O sistema deve permitir cadastro de academias  |
-| `2`  | O sistema deve permitir cadastro de alunos  |
-| `3`  | O sistema deve permitir cadastro de instrutores/personals  |
 
 # temos que fazer logo essa bosta
