@@ -1,7 +1,4 @@
 <h1 align="center">Sistema Athlos para Academias</h1>
-<div align="center">
-  <img src="imagens/gato.jpg">
-</div>
 
 <h1 align="center">Requisitos Funcionais</h1>
 
