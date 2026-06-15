@@ -68,4 +68,45 @@
     O sistema deve estar normalizado na 3FN,<br>
   </td></tr>
 </table>
-# temos que fazer logo essa bosta
+
+```
+Athlos/
+├── Modelo/
+│   ├── Athlos.vpp   # Modelo relacional feito no Visual Paradigm
+|   ├── Athlos.brM3   # Modelo relacional feito no Br Modelo, deatualizado
+│   └── dicionario_de_dados.md  # Dicionario de dados completo
+└── sql/
+    ├── 01_create_database.sql   # Criacao do banco de dados
+    ├── 02_create_tables.sql     # Tabelas e constraints (PK, FK, UK, CHECK, DEFAULT)
+    ├── 03_indexes.sql           # Indices para otimizacao de consultas
+    ├── 04_dados_exemplo.sql     # Dados de exemplo para testes
+    └── 05_consultas.sql         # Relatorios
+```
+
+## Desenvolvedores
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Eduardo</strong><br/>
+      Matricula: 666
+    </td>
+    <td align="center">
+      <strong>Lucas</strong><br/>
+      Matricula: 666
+    </td>
+    <td align="center">
+      <strong>Rafael</strong><br/>
+      Matricula: 666
+    </td>
+    <td align="center">
+      <strong>Samuel</strong><br/>
+      Matricula: 666
+    </td>
+  </tr>
+</table>
+
+---
+
+*Disciplina: Banco de Dados I — Ciencia da Computacao — UNOESC Sao Miguel do Oeste — 2026/01*
+
