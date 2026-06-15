@@ -92,13 +92,20 @@ Athlos/
 <tr>
   <th>Nome</th><th>Descrição</th>
 </tr>
-  <tr><td align="center">Visual Paradigm</td><td align="center">
-    Ferramenta de modelagem CASE utilizada para planejar<br>desenhar e gerenciar diagramas de software<br>
-  </td></tr>
-</table>
-<td align="center">brModelo</td>
+ <table align="center">
+  <tr>
+    <th>Nome</th><th>Descrição</th>
+  </tr>
+  <tr>
+    <td align="center">Visual Paradigm</td>
     <td align="center">
-      ferramenta focada em projetar bancos de dados, utilizada para criar modelos conceituais<br>(Entidade-Relacionamento) e convertê-los em modelos lógicos.
+      Ferramenta de modelagem CASE utilizada para planejar,<br>desenhar e gerenciar diagramas de software
+    </td>
+  </tr>
+  <tr>
+    <td align="center">brModelo</td>
+    <td align="center">
+      Ferramenta focada em projetar bancos de dados, utilizada para<br>criar modelos conceituais (Entidade-Relacionamento) e convertê-los em modelos lógicos.
     </td>
   </tr>
 </table>
