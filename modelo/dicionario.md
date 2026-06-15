@@ -1,26 +1,30 @@
-<h3>Tabela: nome_da_tabela</h3>
-<p>Descrição curta do que a tabela armazena.</p>
+<h3 align="center">Tabela: nome_da_tabela</h3>
+<p align="center">Descrição curta do que a tabela armazena.</p>
 
 <table align="center">
-  <tr align="center">
-    <th>Coluna</th>
-    <th>Tipo</th>
-    <th>Nulo</th>
-    <th>Restrições</th>
-    <th>Descrição</th>
-  </tr>
-  <tr align="center">
-    <td><code>coluna_1</code></td>
-    <td>TIPO</td>
-    <td>SIM/NAO</td>
-    <td>RESTRIÇÃO</td>
-    <td>Descrição da coluna 1</td>
-  </tr>
-  <tr align="center">
-    <td><code>coluna_2</code></td>
-    <td>TIPO</td>
-    <td>SIM/NAO</td>
-    <td>RESTRIÇÃO</td>
-    <td>Descrição da coluna 2</td>
-  </tr>
+  <thead>
+    <tr align="center">
+      <th>Coluna</th>
+      <th>Tipo</th>
+      <th>Nulo</th>
+      <th>Restrições</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td align="center"><code>coluna_1</code></td>
+      <td align="center">TIPO</td>
+      <td align="center">SIM/NAO</td>
+      <td align="center">RESTRIÇÃO</td>
+      <td align="center">Descrição da coluna 1</td>
+    </tr>
+    <tr align="center">
+      <td align="center"><code>coluna_2</code></td>
+      <td align="center">TIPO</td>
+      <td align="center">SIM/NAO</td>
+      <td align="center">RESTRIÇÃO</td>
+      <td align="center">Descrição da coluna 2</td>
+    </tr>
+  </tbody>
 </table>
