@@ -85,6 +85,11 @@ Athlos/
     O sistema deve estar normalizado na 3FN,<br>
   </td></tr>
 </table>
+
+<h2 align="center">Diagrama Relacional</h2>
+
+<image href="modelo\diagrama_de_tabelas.png" />
+
  <h1 align="center">Tecnologias utilizadas</h1>
    <table align="center">
 <tr>
