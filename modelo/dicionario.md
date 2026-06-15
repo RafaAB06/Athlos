@@ -2,25 +2,25 @@
 <p>Descrição curta do que a tabela armazena.</p>
 
 <table align="center">
-  <tr>
+  <tr align="center">
     <th>Coluna</th>
     <th>Tipo</th>
     <th>Nulo</th>
     <th>Restrições</th>
     <th>Descrição</th>
   </tr>
-  <tr>
-    <td align="center"><code>coluna_1</code></td>
-    <td align="center">TIPO</td>
-    <td align="center">SIM/NAO</td>
-    <td align="center">RESTRIÇÃO</td>
-    <td align="center">Descrição da coluna 1</td>
+  <tr align="center">
+    <td><code>coluna_1</code></td>
+    <td>TIPO</td>
+    <td>SIM/NAO</td>
+    <td>RESTRIÇÃO</td>
+    <td>Descrição da coluna 1</td>
   </tr>
-  <tr>
-    <td align="center"><code>coluna_2</code></td>
-    <td align="center">TIPO</td>
-    <td align="center">SIM/NAO</td>
-    <td align="center">RESTRIÇÃO</td>
-    <td align="center">Descrição da coluna 2</td>
+  <tr align="center">
+    <td><code>coluna_2</code></td>
+    <td>TIPO</td>
+    <td>SIM/NAO</td>
+    <td>RESTRIÇÃO</td>
+    <td>Descrição da coluna 2</td>
   </tr>
 </table>
