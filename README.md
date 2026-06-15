@@ -115,7 +115,7 @@ Athlos/
   <tr>
     <td align="center">
       <strong>Eduardo Ari Rebonatto Muller</strong><br/>
-      Matricula: 666
+      Matricula: 447913
     </td>
     <td align="center">
       <strong>Lucas Orlandi</strong><br/>
