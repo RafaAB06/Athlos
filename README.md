@@ -75,7 +75,7 @@ Athlos/
     O sistema deve consultar o histórico financeiro e o saldo devedor/pendente de um aluno.
     </td></tr>
 </table>
-  <h1 align="center">Requisitos não Funcionais</h1>
+  <h2 align="center">Requisitos não Funcionais</h2>
 
   <table align="center">
 <tr>
@@ -90,7 +90,7 @@ Athlos/
 
 ![Modelo Entidade Relacionamento](modelo/diagrama_de_tabelas.png)
 
- <h1 align="center">Tecnologias utilizadas</h1>
+ <h2 align="center">Tecnologias utilizadas</h2>
    <table align="center">
 <tr>
     <th>Nome</th><th>Descrição</th>
