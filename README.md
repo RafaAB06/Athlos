@@ -1,6 +1,6 @@
 <h1 align="center">Sistema Athlos para Academias</h1>
 
-<h1 align="center">Estrutura do Repositório</h1>
+<h2 align="center">Estrutura do Repositório</h2>
 
 ```
 Athlos/
@@ -16,7 +16,7 @@ Athlos/
     └── 05_consultas.sql         # Relatorios
 ```
 
-<h1 align="center">Requisitos Funcionais</h1>
+<h2 align="center">Requisitos Funcionais</h2>
 
 <table align="center">
 <tr>
@@ -85,7 +85,7 @@ Athlos/
   </td></tr>
 </table>
 
-<h1 align="center">Desenvolvedores</h1>
+<h2 align="center">Desenvolvedores</h2>
 
 <table align="center">
   <tr>
