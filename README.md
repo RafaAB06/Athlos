@@ -90,19 +90,19 @@ Athlos/
 <table align="center">
   <tr>
     <td align="center">
-      <strong>Eduardo</strong><br/>
+      <strong>Eduardo Ari Rebonatto Muller</strong><br/>
       Matricula: 666
     </td>
     <td align="center">
-      <strong>Lucas</strong><br/>
+      <strong>Lucas Orlandi</strong><br/>
+      Matricula: 449243
+    </td>
+    <td align="center">
+      <strong>Rafael André Brustolin</strong><br/>
       Matricula: 666
     </td>
     <td align="center">
-      <strong>Rafael</strong><br/>
-      Matricula: 666
-    </td>
-    <td align="center">
-      <strong>Samuel</strong><br/>
+      <strong>Samuel do Nascimento Gralow</strong><br/>
       Matricula: 666
     </td>
   </tr>
