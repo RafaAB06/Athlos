@@ -88,22 +88,24 @@ Athlos/
  <h1 align="center">Tecnologias utilizadas</h1>
    <table align="center">
 <tr>
-  <th>Nome</th><th>Descrição</th>
-</tr>
- <table align="center">
-  <tr>
     <th>Nome</th><th>Descrição</th>
   </tr>
   <tr>
     <td align="center">Visual Paradigm</td>
     <td align="center">
-      Ferramenta de modelagem CASE utilizada para planejar,<br>desenhar e gerenciar diagramas de software
+     Ferramenta CASE utilizada para planejar, desenhar e<br>gerenciar o modelo conceitual e os diagramas de software do projeto.
     </td>
   </tr>
   <tr>
     <td align="center">brModelo</td>
     <td align="center">
-      Ferramenta focada em projetar bancos de dados, utilizada para<br>criar modelos conceituais (Entidade-Relacionamento) e convertê-los em modelos lógicos.
+    Ferramenta CASE utilizada para planejar, desenhar e projetar<br>o modelo relacional e os diagramas de banco de dados do projeto.
+    </td>
+  </tr>
+    <tr>
+    <td align="center">PostegreSQL</td>
+    <td align="center">
+     Sistema SGBD utilizado para armazenar, organizar e gerenciar<br>o banco de dados relacional e os dados estruturados do projeto.
     </td>
   </tr>
 </table>
