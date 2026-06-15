@@ -1,5 +1,21 @@
 <h1 align="center">Sistema Athlos para Academias</h1>
 
+<h1 align="center">Estrutura do Repositório</h1>
+
+```
+Athlos/
+├── Modelo/
+│   ├── Athlos.vpp   # Modelo relacional feito no Visual Paradigm
+|   ├── Athlos.brM3   # Modelo relacional feito no Br Modelo, deatualizado
+│   └── dicionario_de_dados.md  # Dicionario de dados completo
+└── sql/
+    ├── 01_create_database.sql   # Criacao do banco de dados
+    ├── 02_create_tables.sql     # Tabelas e constraints (PK, FK, UK, CHECK, DEFAULT)
+    ├── 03_indexes.sql           # Indices para otimizacao de consultas
+    ├── 04_dados_exemplo.sql     # Dados de exemplo para testes
+    └── 05_consultas.sql         # Relatorios
+```
+
 <h1 align="center">Requisitos Funcionais</h1>
 
 <table align="center">
@@ -69,23 +85,9 @@
   </td></tr>
 </table>
 
-```
-Athlos/
-├── Modelo/
-│   ├── Athlos.vpp   # Modelo relacional feito no Visual Paradigm
-|   ├── Athlos.brM3   # Modelo relacional feito no Br Modelo, deatualizado
-│   └── dicionario_de_dados.md  # Dicionario de dados completo
-└── sql/
-    ├── 01_create_database.sql   # Criacao do banco de dados
-    ├── 02_create_tables.sql     # Tabelas e constraints (PK, FK, UK, CHECK, DEFAULT)
-    ├── 03_indexes.sql           # Indices para otimizacao de consultas
-    ├── 04_dados_exemplo.sql     # Dados de exemplo para testes
-    └── 05_consultas.sql         # Relatorios
-```
+<h1 align="center">Desenvolvedores</h1>
 
-## Desenvolvedores
-
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <strong>Eduardo</strong><br/>
