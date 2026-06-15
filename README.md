@@ -1,7 +1,8 @@
 <h1 align="center">Sistema Athlos para Academias</h1>
 <h2 align="center">Resumo</h2>
+Athlos é um sistema de gerenciamento de academia desenvolvido como trabalho final da disciplina de Banco de Dados I. O projeto modela e implementa o banco de dados relacional que suporta o ciclo completo da rotina de uma academia: desde o cadastro de alunos, funcionários e modalidades até o controle de matrículas, agendamento de treinos, avaliação física e pagamentos de mensalidades.
 
-
+O modelo de dados foi projetado seguindo as regras de normalização até a Terceira Forma Normal (3FN), garantindo a integridade referencial, a eliminação de redundâncias e a consistência total dos dados.
 <h2 align="center">Estrutura do Repositório</h2>
 
 ```
