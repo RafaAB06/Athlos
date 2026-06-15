@@ -84,9 +84,26 @@ Athlos/
     Segurança: Todas as senhas de usuários devem ser criptografadas utilizando<br>
     algoritmos robustos antes do armazenamento no banco de dados.
   </td></tr>
-      <tr><td align="center">3</td><td align="center">
+    <tr><td align="center">3</td><td align="center">
    Disponibilidade: O sistema de agendamento de aulas e check-in deve possuir uma disponibilidade de 99,9% em regime 24/7.
   </td></tr>
+    <tr><td align="center">4</td><td align="center">
+    Privacidade: O sistema deve encerrar sessões inativas automaticamente após<br>
+    15 minutos para evitar que terceiros vejam dados confidenciais na tela.
+  </td></tr>
+    <tr><td align="center">5</td><td align="center">
+    Concorrência: O servidor deve suportar o acesso simultâneo de até 500 alunos realizando check-in no mesmo minuto sem lentidão.
+  </td></tr>
+    <tr><td align="center">6</td><td align="center">
+    Responsividade: A interface do aplicativo do aluno deve ser totalmente adaptável para telas Android e iOS.
+  </td></tr>
+  <tr><td align="center">7</td><td align="center">
+    Confiabilidade: O sistema deve realizar backups automatizados em nuvem todos os dias às 23h59.
+  </td></tr>
+  <tr><td align="center">8</td><td align="center">
+    Compatibilidade: O painel administrativo deve funcionar perfeitamente nos navegadores Google Chrome, Opera, Firefox e Microsoft Edge.
+  </td></tr>
+      
 </table>
 
 <h2 align="center">Diagrama Relacional</h2>
