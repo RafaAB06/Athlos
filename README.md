@@ -87,6 +87,15 @@ Athlos/
     O sistema deve estar normalizado na 3FN,<br>
   </td></tr>
 </table>
+ <h1 align="center">Tecnologias utilizadas</h1>
+   <table align="center">
+<tr>
+  <th>Número</th><th>Descrição</th>
+</tr>
+  <tr><td align="center">1</td><td align="center">
+    Visual Paradigm,<br>
+  </td></tr>
+</table>
 
 <h2 align="center">Desenvolvedores</h2>
 
