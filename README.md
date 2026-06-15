@@ -121,7 +121,7 @@ Athlos/
     </td>
     <td align="center">
       <strong>Rafael André Brustolin</strong><br/>
-      Matricula: 666
+      Matricula: 431507
     </td>
     <td align="center">
       <strong>Samuel do Nascimento Gralow</strong><br/>
