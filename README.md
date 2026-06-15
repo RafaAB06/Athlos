@@ -58,11 +58,10 @@ Athlos/
   </td></tr>
   <tr><td align="center">9</td><td align="center">
     O sistema deve permitir o registro de avaliações físicas dos alunos,<br>
-    contendo peso, altura, percentual de gordura e histórico médico.
+    contendo peso e altura
   </td></tr>
   <tr><td align="center">10</td><td align="center">
-    O sistema deve registrar os pagamentos das mensalidades, permitindo o recebimento parcial<br>
-    ou total e identificando a forma de pagamento (dinheiro, cartão, PIX).
+    O sistema deve registrar os pagamentos das mensalidades e a forma de pagamento (dinheiro, cartão, PIX).
    </td></tr>
    <tr><td align="center">11</td><td align="center">
      O sistema deve consultar o histórico financeiro e o saldo devedor/pendente de um aluno.
@@ -70,9 +69,6 @@ Athlos/
     <tr><td align="center">12</td><td align="center!">
     O sistema deve registrar o controle de acesso (check-in) do aluno na portaria/catraca,<br>
     bloqueando a entrada caso o aluno esteja com status inativo ou com mensalidades atrasadas.
-    </td></tr>
-    <tr><td align="center">13</td><td align="center!">
-    O sistema deve consultar o histórico financeiro e o saldo devedor/pendente de um aluno.
     </td></tr>
 </table>
   <h2 align="center">Requisitos não Funcionais</h2>
