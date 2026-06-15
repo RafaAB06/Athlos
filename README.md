@@ -90,10 +90,10 @@ Athlos/
  <h1 align="center">Tecnologias utilizadas</h1>
    <table align="center">
 <tr>
-  <th>Número</th><th>Descrição</th>
+  <th>Nome</th><th>Descrição</th>
 </tr>
-  <tr><td align="center">1</td><td align="center">
-    Visual Paradigm,<br>
+  <tr><td align="center">Visual Paradigm</td><td align="center">
+    ferramenta de modelagem CASE utilizada para planejar, desenhar e gerenciar diagramas de software<br>
   </td></tr>
 </table>
 
