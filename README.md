@@ -78,7 +78,14 @@ Athlos/
   <th>Número</th><th>Descrição</th>
 </tr>
   <tr><td align="center">1</td><td align="center">
-    O sistema deve estar normalizado na 3FN,<br>
+    Desempenho: A liberação da catraca física ou digital deve ocorrer em menos de 1 segundo após a validação do aluno.
+  </td></tr>
+<tr><td align="center">2</td><td align="center">
+    Segurança: Todas as senhas de usuários devem ser criptografadas utilizando<br>
+    algoritmos robustos antes do armazenamento no banco de dados.
+  </td></tr>
+      <tr><td align="center">3</td><td align="center">
+   Disponibilidade: O sistema de agendamento de aulas e check-in deve possuir uma disponibilidade de 99,9% em regime 24/7.
   </td></tr>
 </table>
 
