@@ -93,8 +93,7 @@ Athlos/
   <th>Nome</th><th>Descrição</th>
 </tr>
   <tr><td align="center">Visual Paradigm</td><td align="center">
-    Ferramenta de modelagem CASE utilizada para planejar
-      desenhar e gerenciar diagramas de software<br>
+    Ferramenta de modelagem CASE utilizada para planejar<br>desenhar e gerenciar diagramas de software<br>
   </td></tr>
 </table>
 
