@@ -177,7 +177,6 @@
     </tr>
   </tbody>
 </table>
-<br><br>
 <h3 align="center">Tabela: avaliacao_fisica</h3>
 <p align="center">Armazena as avaliações físicas realizadas pelos clientes.</p>
 <table align="center">
@@ -315,7 +314,6 @@
     </tr>
   </tbody>
 </table>
-<br><br>
 <h3 align="center">Tabela: matricula</h3>
 <p align="center">Relaciona planos e modalidades contratadas.</p>
 <table align="center">
@@ -559,7 +557,6 @@
     </tr>
   </tbody>
 </table>
-<br><br>
 <h3 align="center">Tabela: cliente</h3>
 <p align="center">Armazena os dados cadastrais dos clientes da academia.</p>
 <table align="center">
