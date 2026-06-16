@@ -1,6 +1,5 @@
 <h3 align="center">Tabela: academia</h3>
 <p align="center">Armazena os dados cadastrais das academias.</p>
-
 <table align="center">
   <thead>
     <tr align="center">
@@ -107,12 +106,9 @@
     </tr>
   </tbody>
 </table>
-
 <br><br>
-
 <h3 align="center">Tabela: pagamento</h3>
 <p align="center">Armazena os pagamentos realizados pelos clientes.</p>
-
 <table align="center">
   <thead>
     <tr align="center">
@@ -182,12 +178,9 @@
     </tr>
   </tbody>
 </table>
-
 <br><br>
-
 <h3 align="center">Tabela: avaliacao_fisica</h3>
 <p align="center">Armazena as avaliações físicas realizadas pelos clientes.</p>
-
 <table align="center">
   <thead>
     <tr align="center">
@@ -229,12 +222,9 @@
     </tr>
   </tbody>
 </table>
-
 <br><br>
-
 <h3 align="center">Tabela: frequencia</h3>
 <p align="center">Registra a frequência dos clientes na academia.</p>
-
 <table align="center">
   <thead>
     <tr align="center">
@@ -269,12 +259,9 @@
     </tr>
   </tbody>
 </table>
-
 <br><br>
-
 <h3 align="center">Tabela: plano</h3>
 <p align="center">Armazena os planos contratados pelos clientes.</p>
-
 <table align="center">
   <thead>
     <tr align="center">
@@ -330,12 +317,9 @@
     </tr>
   </tbody>
 </table>
-
 <br><br>
-
 <h3 align="center">Tabela: matricula</h3>
 <p align="center">Relaciona planos e modalidades contratadas.</p>
-
 <table align="center">
   <thead>
     <tr align="center">
@@ -377,12 +361,9 @@
     </tr>
   </tbody>
 </table>
-
 <br><br>
-
 <h3 align="center">Tabela: modalidade</h3>
 <p align="center">Armazena as modalidades oferecidas pela academia.</p>
-
 <table align="center">
   <thead>
     <tr align="center">
@@ -438,12 +419,9 @@
     </tr>
   </tbody>
 </table>
-
 <br><br>
-
 <h3 align="center">Tabela: supervisao</h3>
 <p align="center">Relaciona instrutores às modalidades supervisionadas.</p>
-
 <table align="center">
   <thead>
     <tr align="center">
@@ -479,7 +457,6 @@
   </tbody>
 </table><h3 align="center">Tabela: endereco</h3>
 <p align="center">Armazena os endereços utilizados pelas entidades do sistema.</p>
-
 <table align="center">
   <thead>
     <tr align="center">
@@ -521,12 +498,9 @@
     </tr>
   </tbody>
 </table>
-
 <br><br>
-
 <h3 align="center">Tabela: cidade</h3>
 <p align="center">Armazena as cidades cadastradas no sistema.</p>
-
 <table align="center">
   <thead>
     <tr align="center">
@@ -561,12 +535,9 @@
     </tr>
   </tbody>
 </table>
-
 <br><br>
-
 <h3 align="center">Tabela: uf</h3>
 <p align="center">Armazena os estados (Unidades Federativas) do sistema.</p>
-
 <table align="center">
   <thead>
     <tr align="center">
@@ -594,12 +565,9 @@
     </tr>
   </tbody>
 </table>
-
 <br><br>
-
 <h3 align="center">Tabela: cliente</h3>
 <p align="center">Armazena os dados cadastrais dos clientes da academia.</p>
-
 <table align="center">
   <thead>
     <tr align="center">
