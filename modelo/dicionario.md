@@ -22,14 +22,14 @@
       <td align="center"><code>nom_acad</code></td>
       <td align="center">VARCHAR(200)</td>
       <td align="center">NÃO</td>
-      <td align="center">NOT NULL</td>
+      <td align="center">-</td>
       <td align="center">Nome da academia.</td>
     </tr>
     <tr align="center">
       <td align="center"><code>tel_acad</code></td>
       <td align="center">VARCHAR(15)</td>
       <td align="center">NÃO</td>
-      <td align="center">NOT NULL</td>
+      <td align="center">-</td>
       <td align="center">Telefone de contato da academia.</td>
     </tr>
     <tr align="center">
