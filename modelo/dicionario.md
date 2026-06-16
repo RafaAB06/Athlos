@@ -550,7 +550,7 @@
     <tr align="center">
       <td><code>sig_uf</code></td>
       <td>CHAR(2)</td>
-      <td>SIM</td>
+      <td>NÃO</td>
       <td>UNIQUE</td>
       <td>Sigla do estado.</td>
     </tr>
