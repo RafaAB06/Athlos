@@ -256,7 +256,6 @@
     </tr>
   </tbody>
 </table>
-<br><br>
 <h3 align="center">Tabela: plano</h3>
 <p align="center">Armazena os planos contratados pelos clientes.</p>
 <table align="center">
