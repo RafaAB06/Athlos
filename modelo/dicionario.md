@@ -87,7 +87,7 @@
       <td><code>sexo_ins</code></td>
       <td>CHAR(1)</td>
       <td>SIM</td>
-      <td>-</td>
+      <td>'M','F'</td>
       <td>Sexo do instrutor.</td>
     </tr>
     <tr align="center">
@@ -138,7 +138,7 @@
       <td><code>tel_cli</code></td>
       <td>VARCHAR(15)</td>
       <td>NÃO</td>
-      <td>-</td>
+      <td>'M','F'</td>
       <td>Telefone de contato do cliente.</td>
     </tr>
     <tr align="center">
@@ -189,7 +189,7 @@
       <td><code>tipo_pla</code></td>
       <td>CHAR(1)</td>
       <td>NÃO</td>
-      <td>-</td>
+      <td>'M', 'T', 'S', 'A'</td>
       <td>Tipo do plano(mensal, trimestral, semestral, anual)</td>
     </tr>
     <tr align="center">
@@ -203,7 +203,7 @@
       <td><code>status_pla</code></td>
       <td>CHAR(1)</td>
       <td>NÃO</td>
-      <td>-</td>
+      <td>'A', 'I', 'C'</td>
       <td>Status do plano(ativo, inativo, cancelado)</td>
     </tr>
     <tr align="center">
@@ -285,14 +285,14 @@
       <td>INTEGER(4)</td>
       <td>NÃO</td>
       <td>-</td>
-      <td>Peso do cliente.</td>
+      <td>Massa do cliente em gramas</td>
     </tr>
     <tr align="center">
       <td><code>altura</code></td>
       <td>INTEGER(4)</td>
       <td>NÃO</td>
       <td>-</td>
-      <td>Altura do cliente.</td>
+      <td>Altura do cliente em centímetros</td>
     </tr>
     <tr align="center">
       <td><code>cpf_cliente</code></td>
@@ -326,10 +326,10 @@
     </tr>
     <tr align="center">
       <td><code>metodo_pag</code></td>
-      <td>VARCHAR(64)</td>
+      <td>CHAR(1)</td>
       <td>NÃO</td>
-      <td>-</td>
-      <td>Método utilizado para pagamento.</td>
+      <td>'C', 'D', 'P', 'B', 'F'</td>
+      <td>Método utilizado para pagamento(Crédito, Débito, PIX, Boleto, Dinheiro Físico)</td>
     </tr>
     <tr align="center">
       <td><code>valor</code></td>
@@ -356,8 +356,8 @@
       <td><code>status_pag</code></td>
       <td>CHAR(1)</td>
       <td>NÃO</td>
-      <td>-</td>
-      <td>Status do pagamento.</td>
+      <td>'P', 'Q', 'C'</td>
+      <td>Status do pagamento(pendente, quitado, cancelado).</td>
     </tr>
     <tr align="center">
       <td><code>cpf_cliente</code></td>
@@ -583,7 +583,7 @@
     </tr>
     <tr align="center">
       <td><code>cod_uf</code></td>
-      <td>INTEGER(10)</td>
+      <td>INTEGER(4)</td>
       <td>NÃO</td>
       <td>FK</td>
       <td>Estado ao qual a cidade pertence.</td>
@@ -605,7 +605,7 @@
   <tbody>
     <tr align="center">
       <td><code>cod_uf</code></td>
-      <td>INTEGER(10)</td>
+      <td>INTEGER(4)</td>
       <td>NÃO</td>
       <td>PK, UNIQUE</td>
       <td>Identificador único do estado.</td>
