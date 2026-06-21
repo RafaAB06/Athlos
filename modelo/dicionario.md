@@ -281,7 +281,7 @@
       <td>CHAR(1)</td>
       <td>NÃO</td>
       <td>-</td>
-      <td>Tipo do plano.</td>
+      <td>Tipo do plano(mensal, trimestral, semestral, anual)</td>
     </tr>
     <tr align="center">
       <td><code>data_inicio_pla</code></td>
@@ -295,7 +295,7 @@
       <td>CHAR(1)</td>
       <td>NÃO</td>
       <td>-</td>
-      <td>Status do plano.</td>
+      <td>Status do plano(ativo, inativo, cancelado)</td>
     </tr>
     <tr align="center">
       <td><code>valor_pla</code></td>
